@@ -1,0 +1,16 @@
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\YigitFramework.Core.dll.config
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\YigitFramework.Core.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\YigitFramework.Core.pdb
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\EntityFramework.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\NHibernate.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\EntityFramework.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\bin\Debug\NHibernate.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\obj\Debug\YigitFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\obj\Debug\YigitFramework.Core.csproj.CopyComplete
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\obj\Debug\YigitFramework.Core.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\obj\Debug\YigitFramework.Core.pdb
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Core\obj\Debug\YigitFramework.Core.csprojAssemblyReference.cache

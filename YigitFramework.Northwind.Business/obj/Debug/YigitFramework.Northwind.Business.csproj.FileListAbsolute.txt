@@ -1,0 +1,6 @@
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Business\bin\Debug\YigitFramework.Northwind.Business.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Business\bin\Debug\YigitFramework.Northwind.Business.pdb
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Business\obj\Debug\YigitFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Business\obj\Debug\YigitFramework.Northwind.Business.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Business\obj\Debug\YigitFramework.Northwind.Business.pdb
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Business\obj\Debug\YigitFramework.Northwind.Business.csprojAssemblyReference.cache

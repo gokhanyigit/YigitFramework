@@ -1,0 +1,16 @@
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\YigitFramework.Northwind.Entities.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\YigitFramework.Northwind.Entities.pdb
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\YigitFramework.Core.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\NHibernate.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\EntityFramework.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\Iesi.Collections.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\YigitFramework.Core.pdb
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\YigitFramework.Core.dll.config
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\NHibernate.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\EntityFramework.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\bin\Debug\Iesi.Collections.xml
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\obj\Debug\YigitFramework.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\obj\Debug\YigitFramework.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\obj\Debug\YigitFramework.Northwind.Entities.csproj.CopyComplete
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\obj\Debug\YigitFramework.Northwind.Entities.dll
+C:\Users\gokhanyigit\Desktop\YigitFramework\YigitFramework\YigitFramework.Northwind.Entities\obj\Debug\YigitFramework.Northwind.Entities.pdb

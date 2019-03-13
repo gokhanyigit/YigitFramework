@@ -15,40 +15,34 @@ YigitFramework Firmasının Northwind isimli bir projesi oluşturulmaktadır.
     YigitFramework.Northwind.WebApi
 
 YigitFramework v1.0.0.0
-Bu versionda Solution üzerinde projeler oluşturulmuştur. Sonrasında da aşağıda belirtilen işlemler gerçekleştirilmiştir. 
-Genel olarak veriye erişim işlemleri için Entity Framework ve NHibernate teknolojilerinin altyapıları oluşturulmuştur.
+Bu versionda Solution üzerinde projeler oluşturulmuştur. Sonrasında da aşağıda belirtilen işlemler gerçekleştirilmiştir. Genel olarak veriye erişim işlemleri için Entity Framework ve NHibernate teknolojilerinin altyapıları oluşturulmuştur.
 
 **YigitFramework.Core** içerisinde;
 
 İlk olarak aşağıdaki arayüzler oluşturuldu.                                                	
 
 > **IEntity**
-**IEntityRepository**                       
-**IQueryableRepository**                   
+> **IEntityRepository**                       
+> **IQueryableRepository**                   
 
-Daha sonra ise EntityFramework ve Nhibernate teknolojileri için RepositoryBase implementasyonları oluşturuldu.        
-	EfEntityRepositoryBase              
-	EfQueryableRepository                
-	NhEntityRepositoryBase                
-	NhQueryableRepository           
+Daha sonra ise **EntityFramework** ve **Nhibernate** teknolojileri için **RepositoryBase implementasyonları** oluşturuldu.   
+> **EfEntityRepositoryBase**       
+> **EfQueryableRepository**             
+> **NhEntityRepositoryBase**                
+> **NhQueryableRepository**           
                  
-YigitFramework.Northwind.DataAccess içerisinde ise veriye erişebilmek için Entity Framework ve NHibernate teknolojileri için implementasyonlar yapılmaktadır.   
+**YigitFramework.Northwind.DataAccess** içerisinde ise veriye erişebilmek için **Entity Framework** ve **NHibernate** teknolojileri için implementasyonlar yapılmaktadır.   
 
- **Save on**
-EntityFramework;          
-Mapping             
-ProductMap              
-CategoryMap                
-EfCategoryDal               
-EfProductDal             
-NorthwindContext              
-NHibernate;               
-Helpers                
-SqlServerHelper              
-Mapping             
-ProductMap                
-CategoryMap                 
-NhCategoryDal                                           
-NhProductDal           
+**EntityFramework;**  
+> **Mapping**    ProductMap - CategoryMap                
+**EfCategoryDal**               
+**EfProductDal**             
+**NorthwindContext**        
+      
+**NHibernate;**      
+> **Mapping**    ProductMap - CategoryMap        
+> **Helpers**    SqlServerHelper    
+**NhCategoryDal**              
+**NhProductDal**                                  
 
-YigitFramework.Northwind.DataAccess.Tests projesinde de basit bir şekilde test metodu yapılmaktadır.
+**YigitFramework.Northwind.DataAccess.Tests** projesinde de basit bir şekilde test metodu yapılmaktadır.

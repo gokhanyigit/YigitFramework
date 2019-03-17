@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using YigitFramework.Northwind.DataAccess.Concrete.EntityFramework;
 
-namespace YigitFramework.Northwind.DataAccess.Tests
+namespace YigitFramework.Northwind.DataAccess.Tests.EntityFrameworkTests
 {
     [TestClass]
     public class EntityFrameworkTest
@@ -13,6 +13,14 @@ namespace YigitFramework.Northwind.DataAccess.Tests
             EfProductDal productDal = new EfProductDal();
             var result = productDal.GetList();
             Assert.AreEqual(77, 77);
+        }
+
+        [TestMethod]
+        public void Get_all_with_parameter_returns_filtered_products()
+        {
+            EfProductDal productDal = new EfProductDal();
+            var result = productDal.GetList(p => p.ProductName.Contains("ab"));
+            Assert.AreEqual(4, result.Count);
         }
     }
 }

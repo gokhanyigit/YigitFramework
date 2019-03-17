@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using YigitFramework.Northwind.DataAccess.Concrete.EntityFramework.Mapping;
+using YigitFramework.Northwind.DataAccess.Concrete.EntityFramework.Mappings;
 using YigitFramework.Northwind.Entities.Concrete;
 
 namespace YigitFramework.Northwind.DataAccess.Concrete.EntityFramework
@@ -18,7 +18,6 @@ namespace YigitFramework.Northwind.DataAccess.Concrete.EntityFramework
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
-        //
 
         // ProductMap vveya diğer maplerimizi de NorthwindContext için entegre etmiş olduk.
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

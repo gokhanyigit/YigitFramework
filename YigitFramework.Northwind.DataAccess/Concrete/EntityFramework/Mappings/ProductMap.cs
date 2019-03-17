@@ -23,8 +23,3 @@ namespace YigitFramework.Northwind.DataAccess.Concrete.EntityFramework.Mappings
         }
     }
 }
-
-// Mesela bizim Product modelimizde nesne ismimiz değişti diyelim. 
-// Bu Mapping bizi kurtaracaktır.
-// Property(x => x.Id).HasColumnName("ProductId"); şeklinde yaparız. 
-// Bu durumda bizde Id, veritabanında ProductId olabilir mesela...

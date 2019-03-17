@@ -37,9 +37,3 @@ namespace YigitFramework.Northwind.DataAccess.Concrete.NHibernate
         }
     }
 }
-
-// Dependeny Injection yapabilmemiz için sen bir IProductDal 'sın diyoruz.
-// nHibernateHelper 'ı enjekte edebilecek şekilde kurucuya veriyoruz. 
-// Buradan da base'e yani NhEntityRepositoryBase ' e nHibernateHelper'i göndermiş oluyoruz.
-// Bu durumda da NhEntityRepositoryBase içinde nHibernateHelper set edilmiş olacak ve 
-// nHibernateHelper; SqlServer ise ona göre Oracle ise ona göre ilgili işlemleri yapacaktır.

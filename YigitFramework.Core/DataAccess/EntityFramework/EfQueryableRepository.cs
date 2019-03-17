@@ -12,11 +12,27 @@ namespace YigitFramework.Core.DataAccess.EntityFramework
         where T : class, IEntity, new()
     {
         private DbContext _context;
+        private IDbSet<T> _entities;
         public EfQueryableRepository(DbContext context)
         {
             _context = context;
         }
 
-        public IQueryable<T> Table { get; }
+        public IQueryable<T> Table
+        {
+            get { return this.Entities; }
+        }
+
+        protected virtual IDbSet<T> Entities
+        {
+            get
+            {
+                if (_entities == null)
+                {
+                    _entities = _context.Set<T>();
+                }
+                return _entities;
+            }
+        }
     }
 }

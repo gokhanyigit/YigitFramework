@@ -13,7 +13,6 @@ YigitFramework Firmasının Northwind isimli bir projesi oluşturulmaktadır.
     YigitFramework.Northwind.MVCWebUI.Tests
     YigitFramework.Northwind.WcfService
     YigitFramework.Northwind.WebApi
-    YigitFramework.TEST
 
 YigitFramework v1.0.0.0
 Bu versionda Solution üzerinde projeler oluşturulmuştur. Sonrasında da aşağıda belirtilen işlemler gerçekleştirilmiştir. Genel olarak veriye erişim işlemleri için Entity Framework ve NHibernate teknolojilerinin altyapıları oluşturulmuştur.
